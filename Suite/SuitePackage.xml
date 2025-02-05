@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="PracticeTestNG" verbose="1">
+    <test name="Practice2">
+        <packages>
+
+            <package name="Practice2.TestCMS"></package>
+        </packages>
+    </test>
+</suite>
